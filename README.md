@@ -3,15 +3,34 @@ SVF files need a English iso original to extract
 
 
 cloud.mail.ru/public/42wj/rwmfNFi5X	Server 2003 with Service Pack 1
+
+
 cloud.mail.ru/public/81a3/8dTLGmGQ4	Server 2003 R2 with Service Pack 2
+
+
 cloud.mail.ru/public/4D6p/4MqMPXB47	Server 2008 with Service Pack 2 
+
+
 cloud.mail.ru/public/9swD/C6Kv7Lwcv	Server 2008 R2 with Service Pack 1 
+
+
 cloud.mail.ru/public/CQo3/VpBpT2rE1	Server 2012 
+
+
 cloud.mail.ru/public/Aaut/JhTwS2naX	Server 2012 R2 with Update 3 
-cloud.mail.ru/public/J7qh/dZFCwkov7	Server 2016 
+
+Cloud.mail.ru/public/J7qh/dZFCwkov7	Server 2016 
+
+
 cloud.mail.ru/public/3yNd/7EHux22Zr	Server 2016 Refresh Jan 2017 
+
+
 cloud.mail.ru/public/8rQ1/Mddxwqdz4	Small Business Server 2011 
+
+
 cloud.mail.ru/public/JDdM/9tYfaizaZ	Storage Server 2008 R2 
+
+
 cloud.mail.ru/public/xWUL/MNmyBQeBG	System Center 2016
 
 More in mdl forum (Mydigitallife)
